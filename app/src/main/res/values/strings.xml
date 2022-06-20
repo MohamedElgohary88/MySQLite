@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySQLite</string>
+    <string name="sqlite_database">SQLite Database</string>
+    <string name="database">DataBase</string>
+    <string name="insert">Insert</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+    <string name="refresh">Refresh</string>
+    <string name="update">Update</string>
+    <string name="department">Department</string>
+    <string name="first_name">First Name</string>
+    <string name="delete">Delete</string>
+    <string name="last_name">Last Name</string>
+</resources>
